@@ -93,4 +93,4 @@ import datetime
 import streamlit as st
 
 d = st.date_input("tanggal buat", value=None)
-st.write("Your birthday is:", d)
+st.write("tanggal di buat:", d)
